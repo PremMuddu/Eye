@@ -2,13 +2,11 @@
 ## Exercise on eyes
 <img src= "oneeye.png" width='300'/>
 
-Overview:
+Description: HTML, CSS, and JavaScript come together to create a dynamic effect.
 
-Description:
+How To run: Download the files on an editor and open index.html on the browser window. Move the mouse around to see the eye ball follow the cursor.
 
-How To run: Download the files on an editor and open index.html on the browser window. Move the mouse around to see the eye ball movment.
-
-Roadmap: 
+Roadmap: Add a bug cursor and add trail makes for the eye ball to follow. 
 
 License:
 
