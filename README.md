@@ -6,7 +6,9 @@
 
 Description: HTML, CSS, and JavaScript come together to create a dynamic effect. Two coordinated eyes are created with eye ball to follow the cursor.
 
-How To run: Simply go to this link: https://premmuddu.github.io/Eye/ on the browser window. Move the mouse around.
+How To run: Simply load the html or go to the link: https://premmuddu.github.io/Eye/ on the browser window and check out my other projects as we.
+
+Once on the page, move the mouse around and the eye ball will follow.  
 
 Roadmap: Add a bug as a cursor and add trail marks for the eye ball to follow. 
 
